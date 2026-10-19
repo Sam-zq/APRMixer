@@ -1,0 +1,38 @@
+[
+  {
+    "source": "outputs/aprmixer_figures_v1/final_model_for_figure/APRMixer.py",
+    "sha256": "ba066659a5e82d5a3325f56343e5c69bcb23ee43b21ce752fe7142eb721a3d59"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/CSRampFormer.py",
+    "sha256": "311a83f42ec36a4f8d406dcdf7d074c6a2b95a6be970e57df84336238d1c1261"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/runtime/data_provider/pv_data_loader.py",
+    "sha256": "0b431cd3ee03580ebab983b39ee8fd37f3b176e10c1e462f1fc58ee708ee5653"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/runtime/utils/tools.py",
+    "sha256": "0850cb5019ec3366417e689af8ff0edb180c0e9ed01c0ebc989ef5aef5080c7e"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/evaluate_final_daylight_metrics.py",
+    "sha256": "081044c15dac1ff0a31b88c9dfd17df00090229092db6fb63658cb8b7f47245c"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/evaluate_pv_advanced_metrics.py",
+    "sha256": "9d2ca357a16c87ffb0dde9bf6120e755461465a324778f8b946423a6fd427f8d"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/run_case.py",
+    "sha256": "fd338513f73351c48fb5d263823487a16902f17504061294f18bb6401e9c013e"
+  },
+  {
+    "source": "outputs/csrampformer_nocross_mse_ubuntu/frozen/configuration.py",
+    "sha256": "5ce98dd5ea06e9d773bd0d5343efa6ff5ffa1b48207d9da6d49b6068efc71a65"
+  },
+  {
+    "source": "outputs/csrampformer_final_release/LICENSE_TSLIB",
+    "sha256": "8a6caa178ea3f33ebff5d7bb5558628cf5b423305dc30d3630f86564c7db94a2"
+  }
+]
