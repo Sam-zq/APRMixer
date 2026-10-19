@@ -69,4 +69,3 @@ See [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md), [docs/source_manifest.js
 
 The empirical data loader and learning-rate utility contain code adapted from Time-Series-Library. Its MIT notice is retained in [third_party/LICENSE_TSLIB](third_party/LICENSE_TSLIB). The public release deliberately omits the unused standard-calendar branch and its GluonTS-derived helper; the final empirical-harmonic path is preserved.
 
-A license for the authors' original APRMixer code has not yet been selected. The third-party MIT notice does not set the license for all original code. Add the chosen top-level license and author/citation metadata before public release. No paper title, DOI, author list or result claim has been invented for this package.
